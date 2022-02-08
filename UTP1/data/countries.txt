@@ -1,0 +1,253 @@
+Flags	Country	Capital	Population	Remarks
+AD	Andorra	Andorra la Vella	80013	Wed Oct 21 14:57:28 MSK 2020
+AE	United Arab Emirates	Abu Dhabi	439533	Wed Oct 21 14:57:29 MSK 2020
+AF	Afghanistan	Kabul	29126	Wed Oct 21 13:40:34 CEST 2020
+AG	Antigua and Barbuda	St. John's	864754	Wed Oct 21 13:46:26 CEST 2020
+AI	Anguilla	The Valley	143223	Wed Oct 21 13:46:34 CEST 2020
+AL	Albania	Tirana	298953	Wed Oct 21 13:46:35 CEST 2020
+AM	Armenia	Yerevan	963200	Wed Oct 21 13:46:37 CEST 2020
+AO	Angola	Luanda	130633	Wed Oct 21 13:46:39 CEST 2020
+AQ	Antarctica		12132	Wed Oct 21 03:59:37 CEST 2020
+AR	Argentina	Buenos Aires	443201	Wed Oct 21 13:46:42 CEST 2020
+AS	American Samoa	Pago Pago	32233	Wed Oct 21 03:59:41 CEST 2020
+AT	Austria	Vienna	820500	Wed Oct 21 03:47:06 CEST 2020
+AU	Australia	Canberra	215154332	Wed Oct 21 03:50:51 CEST 2020
+AW	Aruba	Oranjestad	7156623	Wed Oct 21 13:38:43 CEST 2020
+AX	Aland Islands	Mariehamn	26733	Wed Oct 21 13:38:44 CEST 2020
+AZ	Azerbaijan	Baku	8305122	Wed Oct 21 13:38:46 CEST 2020
+BA	Bosnia and Herzegovina	Sarajevo	4590013	Wed Oct 21 13:38:47 CEST 2020
+BB	Barbados	Bridgetown	285653	Wed Oct 21 13:40:13 CEST 2020
+BD	Bangladesh	Dhaka	156113	Wed Oct 21 03:56:38 CEST 2020
+BE	Belgium	Brussels	10403	Wed Oct 21 03:56:40 CEST 2020
+BF	Burkina Faso	Ouagadougou	162418113	Wed Oct 21 03:56:42 CEST 2020
+BG	Bulgaria	Sofia	714878	Wed Oct 21 03:49:56 CEST 2020
+BH	Bahrain	Manama	738004	Wed Oct 21 04:03:11 CEST 2020
+BI	Burundi	Bujumbura	98631173	Wed Oct 21 03:59:43 CEST 2020
+BJ	Benin	Porto-Novo	905601	Wed Oct 21 03:59:45 CEST 2020
+BL	Saint Barthelemy	Gustavia	84503	Wed Oct 21 04:03:14 CEST 2020
+BM	Bermuda	Hamilton	6536	Wed Oct 21 04:03:16 CEST 2020
+BN	Brunei	Bandar Seri Begawan	39502733	Wed Oct 21 04:03:18 CEST 2020
+BO	Bolivia	Sucre	994741	Wed Oct 21 04:03:19 CEST 2020
+BQ	Bonaire, Saint Eustatius and Saba 		180123	Wed Oct 21 04:03:20 CEST 2020
+BR	Brazil	Brasilia	201103	Wed Oct 21 04:03:22 CEST 2020
+BS	Bahamas	Nassau	301790	
+BT	Bhutan	Thimphu	6998473	Wed Oct 21 13:40:22 CEST 2020
+BV	Bouvet Island		123	Wed Oct 21 13:40:19 CEST 2020
+BW	Botswana	Gaborone	2029307	
+BY	Belarus	Minsk	9685000	
+BZ	Belize	Belmopan	314522	
+CA	Canada	Ottawa	33679000	
+CC	Cocos Islands	West Island	628	
+CD	Democratic Republic of the Congo	Kinshasa	70916439	
+CF	Central African Republic	Bangui	4844927	
+CG	Republic of the Congo	Brazzaville	3039121	Wed Oct 21 04:05:24 CEST 2020
+CH	Switzerland	Bern	848410	Wed Oct 21 04:05:22 CEST 2020
+CI	Ivory Coast	Yamoussoukro	21058798	
+CK	Cook Islands	Avarua	21388	
+CL	Chile	Santiago	16746491	
+CM	Cameroon	Yaounde	19294149	
+CN	China	Beijing	1330044000	
+CO	Colombia	Bogota	4779000	Wed Oct 21 04:06:17 CEST 2020
+CR	Costa Rica	San Jose	45162	Wed Oct 21 04:06:20 CEST 2020
+CU	Cuba	Havana	114230003	Wed Oct 21 04:06:21 CEST 2020
+CV	Cabo Verde	Praia	508659	
+CW	Curacao	 Willemstad	141766	
+CX	Christmas Island	Flying Fish Cove	1500	
+CY	Cyprus	Nicosia	1102677	
+CZ	Czechia	Prague	10476000	
+DE	Germany	Berlin	81802257	
+DJ	Djibouti	Djibouti	740528	
+DK	Denmark	Copenhagen	5484000	
+DM	Dominica	Roseau	72813	
+DO	Dominican Republic	Santo Domingo	9823821	
+DZ	Algeria	Algiers	3458618	Wed Oct 21 13:44:52 CEST 2020
+EC	Ecuador	Quito	14790608	
+EE	Estonia	Tallinn	1291170	
+EG	Egypt	Cairo	8047186	Wed Oct 21 13:44:50 CEST 2020
+EH	Western Sahara	El-Aaiun	273008	
+ER	Eritrea	Asmara	5792984	
+ES	Spain	Madrid	4650596	Wed Oct 21 13:44:55 CEST 2020
+ET	Ethiopia	Addis Ababa	880134	Wed Oct 21 13:44:58 CEST 2020
+FI	Finland	Helsinki	5244000	
+FJ	Fiji	Suva	875983	
+FK	Falkland Islands	Stanley	2638	
+FM	Micronesia	Palikir	107708	
+FO	Faroe Islands	Torshavn	48228	
+FR	France	Paris	64768389	
+GA	Gabon	Libreville	1545255	
+GB	United Kingdom	London	62348447	
+GD	Grenada	St. George's	107818	
+GE	Georgia	Tbilisi	4630000	
+GF	French Guiana	Cayenne	195506	
+GG	Guernsey	St Peter Port	65228	
+GH	Ghana	Accra	24339838	
+GI	Gibraltar	Gibraltar	27884	
+GL	Greenland	Nuuk	56375	
+GM	Gambia	Banjul	1593256	
+GN	Guinea	Conakry	10324025	
+GP	Guadeloupe	Basse-Terre	443000	
+GQ	Equatorial Guinea	Malabo	1014999	
+GR	Greece	Athens	11000000	
+GS	South Georgia and the South Sandwich Islands	Grytviken	30	
+GT	Guatemala	Guatemala City	13550440	
+GU	Guam	Hagatna	159358	
+GW	Guinea-Bissau	Bissau	1565126	
+GY	Guyana	Georgetown	748486	
+HK	Hong Kong	Hong Kong	6898686	
+HM	Heard Island and McDonald Islands		0	
+HN	Honduras	Tegucigalpa	7989415	
+HR	Croatia	Zagreb	4284889	
+HT	Haiti	Port-au-Prince	9648924	
+HU	Hungary	Budapest	998200	Wed Oct 21 04:07:00 CEST 2020
+ID	Indonesia	Jakarta	242968342	
+IE	Ireland	Dublin	4622917	Wed Oct 21 04:06:57 CEST 2020
+IL	Israel	Jerusalem	7353985	Wed Oct 21 04:06:58 CEST 2020
+IM	Isle of Man	Douglas	75049	Wed Oct 21 04:06:56 CEST 2020
+IN	India	New Delhi	1173108018	Wed Oct 21 04:06:53 CEST 2020
+IO	British Indian Ocean Territory	Diego Garcia	4000	Wed Oct 21 04:06:55 CEST 2020
+IQ	Iraq	Baghdad	29671605	Wed Oct 21 04:06:54 CEST 2020
+IR	Iran	Tehran	76923300	
+IS	Iceland	Reykjavik	308910	Wed Oct 21 04:06:52 CEST 2020
+IT	Italy	Rome	60340328	Wed Oct 21 04:06:52 CEST 2020
+JE	Jersey	Saint Helier	908123	Wed Oct 21 04:06:38 CEST 2020
+JM	Jamaica	Kingston	284723	Wed Oct 21 04:06:51 CEST 2020
+JO	Jordan	Amman	64070853	Wed Oct 21 04:06:41 CEST 2020
+JP	Japan	Tokyo	12728800	Wed Oct 21 04:06:43 CEST 2020
+KE	Kenya	Nairobi	4004	Wed Oct 21 04:06:50 CEST 2020
+KG	Kyrgyzstan	Bishkek	5776500	
+KH	Cambodia	Phnom Penh	14453680	
+KI	Kiribati	Tarawa	92533	
+KM	Comoros	Moroni	773407	
+KN	Saint Kitts and Nevis	Basseterre	51134	
+KP	North Korea	Pyongyang	22912177	
+KR	South Korea	Seoul	48422644	
+XK	Kosovo	Pristina	1800000	
+KW	Kuwait	Kuwait City	2789132	
+KY	Cayman Islands	George Town	44270	
+KZ	Kazakhstan	Nur-Sultan	15340000	
+LA	Laos	Vientiane	6368162	
+LB	Lebanon	Beirut	4125247	
+LC	Saint Lucia	Castries	160922	
+LI	Liechtenstein	Vaduz	35000	
+LK	Sri Lanka	Colombo	21513990	
+LR	Liberia	Monrovia	3685076	
+LS	Lesotho	Maseru	1919552	
+LT	Lithuania	Vilnius	2944459	
+LU	Luxembourg	Luxembourg	497538	
+LV	Latvia	Riga	2217969	
+LY	Libya	Tripoli	6461454	
+MA	Morocco	Rabat	33848242	
+MC	Monaco	Monaco	32965	
+MD	Moldova	Chisinau	4324000	
+ME	Montenegro	Podgorica	666730	
+MF	Saint Martin	Marigot	35925	
+MG	Madagascar	Antananarivo	21281844	
+MH	Marshall Islands	Majuro	6585	Wed Oct 21 03:59:50 CEST 2020
+MK	North Macedonia	Skopje	20622943	Wed Oct 21 03:59:52 CEST 2020
+ML	Mali	Bamako	13796354	
+MM	Myanmar	Nay Pyi Taw	53414374	
+MN	Mongolia	Ulaanbaatar	3086918	
+MO	Macao	Macao	449198	
+MP	Northern Mariana Islands	Saipan	53883	
+MQ	Martinique	Fort-de-France	432900	
+MR	Mauritania	Nouakchott	3205060	
+MS	Montserrat	Plymouth	9341	
+MT	Malta	Valletta	403000	
+MU	Mauritius	Port Louis	1294104	
+MV	Maldives	Male	395650	
+MW	Malawi	Lilongwe	15447500	
+MX	Mexico	Mexico City	112468855	
+MY	Malaysia	Kuala Lumpur	28274729	
+MZ	Mozambique	Maputo	22061451	
+NA	Namibia	Windhoek	2128471	
+NC	New Caledonia	Noumea	216494	
+NE	Niger	Niamey	15878271	
+NF	Norfolk Island	Kingston	1828	
+NG	Nigeria	Abuja	154000000	
+NI	Nicaragua	Managua	5995928	
+NL	Netherlands	Amsterdam	16645000	
+NO	Norway	Oslo	5009150	
+NP	Nepal	Kathmandu	28951852	
+NR	Nauru	Yaren	10065	
+NU	Niue	Alofi	2166	
+NZ	New Zealand	Wellington	4252277	
+OM	Oman	Muscat	2967717	
+PA	Panama	Panama City	3410676	
+PE	Peru	Lima	29907003	
+PF	French Polynesia	Papeete	270485	
+PG	Papua New Guinea	Port Moresby	6064515	
+PH	Philippines	Manila	99900177	
+PK	Pakistan	Islamabad	184404791	
+PL	Poland	Warsaw	38500000	
+PM	Saint Pierre and Miquelon	Saint-Pierre	7012	
+PN	Pitcairn	Adamstown	46333	Wed Oct 21 13:40:42 CEST 2020
+PR	Puerto Rico	San Juan	3916	Wed Oct 21 13:40:45 CEST 2020
+PS	Palestinian Territory	East Jerusalem	38000003	Wed Oct 21 13:40:40 CEST 2020
+PT	Portugal	Lisbon	10676000	
+PW	Palau	Melekeok	199073	Wed Oct 21 13:40:47 CEST 2020
+PY	Paraguay	Asuncion	6375830	
+QA	Qatar	Doha	840926	
+RE	Reunion	Saint-Denis	776948	
+RO	Romania	Bucharest	21959278	
+RS	Serbia	Belgrade	7344847	
+RU	Russia	Moscow	140702000	
+RW	Rwanda	Kigali	11055976	
+SA	Saudi Arabia	Riyadh	25731776	
+SB	Solomon Islands	Honiara	559198	
+SC	Seychelles	Victoria	88340	
+SD	Sudan	Khartoum	35000000	
+SS	South Sudan	Juba	8260490	
+SE	Sweden	Stockholm	9828655	
+SG	Singapore	Singapore	4701069	
+SH	Saint Helena	Jamestown	7460	
+SI	Slovenia	Ljubljana	2007000	
+SJ	Svalbard and Jan Mayen	Longyearbyen	2550	
+SK	Slovakia	Bratislava	5455000	
+SL	Sierra Leone	Freetown	5245695	
+SM	San Marino	San Marino	31477	
+SN	Senegal	Dakar	12323252	
+SO	Somalia	Mogadishu	10112453	
+SR	Suriname	Paramaribo	492829	
+ST	Sao Tome and Principe	Sao Tome	197700	
+SV	El Salvador	San Salvador	6052064	
+SX	Sint Maarten	Philipsburg	37429	
+SY	Syria	Damascus	22198110	
+SZ	Eswatini	Mbabane	1354051	
+TC	Turks and Caicos Islands	Cockburn Town	20556	
+TD	Chad	N'Djamena	10543464	
+TF	French Southern Territories	Port-aux-Francais	140	
+TG	Togo	Lome	6587239	
+TH	Thailand	Bangkok	67089500	
+TJ	Tajikistan	Dushanbe	7487489	
+TK	Tokelau	 	1466	
+TL	Timor Leste	Dili	1154625	
+TM	Turkmenistan	Ashgabat	4940916	
+TN	Tunisia	Tunis	10589025	
+TO	Tonga	Nuku'alofa	122580	
+TR	Turkey	Ankara	77804122	
+TT	Trinidad and Tobago	Port of Spain	1328019	
+TV	Tuvalu	Funafuti	10472	
+TW	Taiwan	Taipei	22894384	
+TZ	Tanzania	Dodoma	41892895	
+UA	Ukraine	Kyiv	4541559	
+UG	Uganda	Kampala	33398682	
+UM	United States Minor Outlying Islands		0	
+US	United States	Washington	310232863	
+UY	Uruguay	Montevideo	3477000	
+UZ	Uzbekistan	Tashkent	27865738	
+VA	Vatican	Vatican City	921	
+VC	Saint Vincent and the Grenadines	Kingstown	104217	
+VE	Venezuela	Caracas	27223228	
+VG	British Virgin Islands	Road Town	21730	
+VI	U.S. Virgin Islands	Charlotte Amalie	108708	
+VN	Vietnam	Hanoi	89571130	
+VU	Vanuatu	Port Vila	221552	
+WF	Wallis and Futuna	Mata Utu	16025	
+WS	Samoa	Apia	192001	
+YE	Yemen	Sanaa	23495361	
+YT	Mayotte	Mamoudzou	159042	
+ZA	South Africa	Pretoria	49000000	
+ZM	Zambia	Lusaka	13460305	
+ZW	Zimbabwe	Harare	13061000	
+CS	Serbia and Montenegro	Belgrade	10829175	
+AN	Netherlands Antilles	Willemstad	300000	
